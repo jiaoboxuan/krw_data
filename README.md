@@ -1,3 +1,9 @@
+## Description of `krw_data`
+
+This repository is for the code that's part of Problem Set 8 of ECON 21160: Topics in Causal Inference at the University of Chicago. The professor is Christopher Walters, Professor of Economics at University of California, Berkeley.
+
+## Instructions
+
 Included in this zip file are a few relevant items:
 - `krw_data.csv`: This is the CSV file provided by the assignment. Do not modify it, nor do you need to open it.
 - `walters.ipynb`: This is the code file for this assignment.
